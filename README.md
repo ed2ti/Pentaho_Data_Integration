@@ -1,2 +1,2 @@
-# Pentaho_Data_Integration
+# Pentaho Data Integration
 A Trebas Project with PDI.(Pentaho Data Integration)
